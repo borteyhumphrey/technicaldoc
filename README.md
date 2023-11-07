@@ -6,3 +6,6 @@
 ### Technologies Used
 - HTML
 - CSS
+
+## Link
+- Live link: ![](https://github.com/borteyhumphrey/technicaldoc)
