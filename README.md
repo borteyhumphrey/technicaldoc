@@ -8,4 +8,4 @@
 - CSS
 
 ## Link
-- Live link: ![](https://github.com/borteyhumphrey/technicaldoc)
+- Live link: [Click here](https://github.com/borteyhumphrey/technicaldoc)
